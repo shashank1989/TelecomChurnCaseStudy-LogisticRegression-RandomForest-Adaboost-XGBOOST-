@@ -13,7 +13,7 @@
 - To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. The given dataset contains customer-level informations for few consecutive months June, July & August they are encoded as 6,7 & 8. The business objective is to predict the cusotmer which will churn in next month by analyzing the dataset High Value Customers:
 - One of the primary goal is to identify high value customers which are more likely to churn, as most of the profit comes from high value customers. Customers which are likely to churn will starting decreasing rhe recharge amount and other facilities. To identify high value customers, total_rech_data can be calculated and total dataser can be filtered which are greater than 70th percentil of the data
 
-> #dataset : loan.csv
+> #dataset : train.csv
 
 ## Technologies Used
 - pandas - Version : 1.2.4
